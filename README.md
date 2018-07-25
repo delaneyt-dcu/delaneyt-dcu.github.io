@@ -1,12 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to myCV
 
 Here is a [link to my CV](https://www.dropbox.com/s/5htcq2p5fslpkjf/180615-IT%20CV-TD.pdf?dl=0)
 
 You can use the [editor on GitHub](https://github.com/delaneyt-dcu/delaneyt-dcu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Hard Skillset
 
-### Markdown
+- Java
+- HTML5
+- CSS
+- JavaScript
+- PHP
+
+### Soft Skillset
+
+- Good Communicator
+- Team Player
+- Hard Working
+- Eager to Learn
+- Fun
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
